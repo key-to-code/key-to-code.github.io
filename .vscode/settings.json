@@ -1,0 +1,22 @@
+{
+	"editor.detectIndentation": true,
+	"editor.insertSpaces": false,
+	"editor.tabSize": 4,
+	"files.eol": "\r\n",
+	"files.exclude": {
+		"**/.DS_Store": false,
+		"**/.git": false,
+		"**/.hg": false,
+		"**/.svn": false,
+		"**/*.crswap": false,
+		"**/CVS": false,
+		"**/Thumbs.db": false
+	},
+	"yaml.schemas": {
+		"https://json.schemastore.org/github-action.json": "file:///workspace/key-to-code.github.io/.github/.pre-commit-config.yaml",
+		"https://json.schemastore.org/jekyll.json": [
+			"file:///workspace/key-to-code.github.io/_config.yml",
+			"file:///workspace/key-to-code.github.io/jekyll.yml"
+		]
+	},
+}

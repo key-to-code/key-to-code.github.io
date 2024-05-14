@@ -1,0 +1,9 @@
+vscode:
+  extensions:
+    - tombonnike.vscode-status-bar-format-toggle
+    - bierner.markdown-preview-github-styles
+    - sndst00m.markdown-github-dark-pack
+    - christian-kohler.path-intellisense
+    - christian-kohler.npm-intellisense
+    - github.vscode-github-actions
+    - waderyan.gitblame
